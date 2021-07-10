@@ -1,9 +1,10 @@
-package practice1;
+package algorithm;
 import java.util.Scanner;
 
-// 1002 번
-
-public class SelfPractice {
+/**
+ * 백준 1002번
+ */
+public class Problem1002 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int T = s.nextInt();
