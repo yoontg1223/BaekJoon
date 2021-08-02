@@ -3,7 +3,7 @@ package algorithm;
 import java.util.Scanner;
 
 /**
- * 백준 2884번
+ * 백준 2884
  */
 public class Problem2884 {
     public static void main(String[] args) {

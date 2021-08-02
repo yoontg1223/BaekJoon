@@ -2,6 +2,9 @@ package algorithm;
 
 import java.util.Scanner;
 
+/**
+ * 백준 2753번
+ */
 public class Problem2753 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
